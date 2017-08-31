@@ -1,4 +1,4 @@
-# LLSJ 2241: Web Fundamentals
+# LLSJ 2241: Web Fundamentals for Journalists
 
 Arnhold Hall 55 W13th Room 913
 
